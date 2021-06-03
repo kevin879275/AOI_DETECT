@@ -61,3 +61,5 @@ docs/source/changelog.md
 
 # csv
 *.csv
+AOI/test_images.zip
+AOI/train_images.zip
